@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+The main purpose of the project is to provide Students a platform to get their problem resolve at college level. For this purpose we will be making a Web based application for our university. The application will contain certain features which will be going to benefit a student in many aspects
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Event/News update
+E-Learning portal
+Notes Section
+Books Sharing and selling
+Faculty contact and mail
